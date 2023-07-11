@@ -1,18 +1,23 @@
-# Job Board App
-Fullstack app to monitor job postings
+# Recipe Search App
 
 Main Objective:
-- Ability to subscribe to job postings from specific companies
+	- Allow user to search for recipes
+ 	- Inspire user to cook new recipes
 
-Desired Features:
-- Filtering
-	- Job title
-		- Show related jobs, not just exact title matches
-	- WFH flexibility (Remote, Hybrid, On-site)
-	- Location
-- Sorting
-	- Pay
-	- Distance
-	- Posting Date
-- Remember/save search criteria
-- Periodic alerts of new job postings
+Basic Features:
+	- Search for recipes by name
+	- Filter recipes
+		○ Cuisine
+		○ Difficulty 
+		○ Ingredients
+		○ Special Diet
+	- User Account
+	- Favorites list
+	- Generate random recipe
+
+Stretch Features:
+	- User profile
+	- Macros planning
+	- Weekly meal planning
+	- Filter by ingredient list
+
